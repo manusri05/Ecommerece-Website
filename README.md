@@ -1,4 +1,4 @@
-eCommerce Web Application
+#eCommerce Web Application
 Welcome to the eCommerce Web Application project! This web application is designed to provide users with an immersive online shopping experience. Below, you'll find essential information about the project:
 
 Table of Contents
